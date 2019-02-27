@@ -1,8 +1,9 @@
 .circle {
     width: 30px;
     height: 30px;
+    margin: 20px;
     border-radius: 50%;
-    background: red;
+    background: white;
     -webkit-animation-name: color-transition;
 	animation-name: color-transition;
 	-webkit-animation-duration: 5s;
